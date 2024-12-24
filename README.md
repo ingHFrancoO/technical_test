@@ -67,6 +67,7 @@ python your_script.py
 ```
 
 ## Project Structure
+```bash
 The project has the following structure:
 │
 ├── config/                    # Configuration files for database and environment
@@ -83,3 +84,4 @@ The project has the following structure:
 ├── README.md                  # Project documentation
 ├── main.py             # Main entry point for the application
 └── .env                       # Environment variables for database credentials
+```
